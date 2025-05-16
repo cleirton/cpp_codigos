@@ -34,6 +34,8 @@ int main(int argc, char* argv[]) {
 	*/
 
 	// cout - saida de dados para o terminal
+	cout << "001.hello_world.cpp" << endl;
+
 	cout << "numero de argumentos: " << argc << endl;
 
 	for(int i = 0; i < argc; i++) {
