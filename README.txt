@@ -1,2 +1,2 @@
 compilando os códigos pelo terminal:
-g++ <fonte.cpp> -o <destino>
+g++ <fonte.cpp> -o .\output\<destino>
